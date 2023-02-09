@@ -1,0 +1,1 @@
+this is a practices to initialize a folder using git
